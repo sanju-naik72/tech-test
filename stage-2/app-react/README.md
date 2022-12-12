@@ -11,7 +11,7 @@ npm i
 ```
 
 
-## Run
+## Run development
 ```sh
-npm run start
+npm run dev
 ```
