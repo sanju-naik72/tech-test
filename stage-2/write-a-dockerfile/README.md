@@ -11,6 +11,9 @@ The customer has engaged ClearRoute to move their applications toward immutable 
 ## Test
 Please write a Dockerfile for one of the app examples.
 
+Assume the app needs to have the [awscli](https://aws.amazon.com/cli) installed and the required environment variables run the awscli.
+
+
 Once complete, please include a screenshot of the terminal with the application running and link ClearRoute to the URL. 
 
 ### Notes
