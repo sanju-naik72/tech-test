@@ -19,7 +19,7 @@ Please write a GitHub actions pipeline in a branch (this is free to do for open 
 - The app can Build 
 - Static Code Analyse (Lint)
 
-Once done, link ClearRoute to the actions file to review.
+Once done, send ClearRoute the url to your repository to review.
 
 ### Notes
 - Think about which order you will want to run things.
