@@ -14,7 +14,8 @@ Please write a Dockerfile for one of the app examples.
 Assume the app needs to have the [awscli](https://aws.amazon.com/cli) installed and the required environment variables run the awscli.
 
 
-Once complete, please include a screenshot of the terminal with the application running and link ClearRoute to the URL. 
+Once complete, please include a screenshot of the terminal with the application running and send ClearRoute the url to your repository to review. 
+
 
 ### Notes
 - You may consider using Container Orchestration for database dependencies but this is not required.
