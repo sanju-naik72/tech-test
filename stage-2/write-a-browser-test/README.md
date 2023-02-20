@@ -15,4 +15,4 @@ The customer has asked ClearRoute to build some End To End Test Automation to st
 
 
 
-Once done, link ClearRoute to the actions file to review.
+Once done, send ClearRoute the url to your repository to review.
