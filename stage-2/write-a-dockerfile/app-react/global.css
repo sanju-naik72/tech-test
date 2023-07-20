@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Proxima Nova";
+  src: url("/fonts/proximanova-regular-webfont.woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+@font-face {
+    font-family: "Proxima Nova";
+    src: url("/fonts/proximanova-semibold-webfont.woff2");
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "Proxima Nova";
+    src: url("/fonts/proximanova-bold-webfont.woff2");
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+  @font-face {
+    font-family: "Proxima Nova";
+    src: url("/fonts/proximanova-extrabold-webfont.woff2");
+    font-weight: 900;
+    font-style: normal;
+  }
+
